@@ -1,16 +1,18 @@
-### Hi there 👋
+### Pavel Korytov
 
-<!--
-**SqrtMinusOne/sqrtminusone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary>GitHub stats</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sqrtminusone&show_icons=true" />
+  </p>
+</details>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>WakaTime stats</summary>
+  <p align="center">
+    <img src="https://wakatime.com/share/@SqrtMinusOne/5538012e-c272-4f28-ab6d-a21c562e8dd8.svg" height="500" />      
+  </p>
+  <p align="center">
+    <img src="https://wakatime.com/share/@SqrtMinusOne/c84d4d3b-3259-4859-8105-0b42f65c9bef.svg" height="500" />      
+  </p>
+</details>
