@@ -3,7 +3,7 @@
 <details>
   <summary>GitHub stats</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sqrtminusone&show_icons=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sqrtminusone&show_icons=true&count_private=true" />
   </p>
 </details>
 
